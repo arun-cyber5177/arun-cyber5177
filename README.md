@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arun-cyber5177
-- 👀 I’m interested in SecOps
+- 👀 I’m interested in Ethical haacking and Security
 - 🌱 I’m currently learning B.Tech CSE(CYBER SECURITY)
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
